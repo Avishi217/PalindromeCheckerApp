@@ -28,7 +28,7 @@ public class UC5 {
         if(isPalindrome) {
             System.out.println("Is Palindrome? : true");
         } else {
-            System.out.println("Is Palindrome? : flase");
+            System.out.println("Is Palindrome? : false");
         }
 
         scanner.close();
