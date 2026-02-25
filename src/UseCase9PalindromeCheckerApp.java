@@ -32,5 +32,8 @@ public class UseCase9PalindromeCheckerApp {
         }
 
         scanner.close();
+
+
+
     }
 }
